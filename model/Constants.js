@@ -1,0 +1,4 @@
+module.exports = {
+	DATETIME_FORMAT: "DD/MM/YYYY HH:mm:ss",
+	DATETIME_FORMAT_WITH_MILLIS: "DD/MM/YYYY HH:mm:ss.SSS"
+}
