@@ -8,7 +8,7 @@ touch .env
 cat .env.dist >> .env
 ```
 
-Edit parameters inside <strong style="color:gray">.env</strong> as needed
+Edit parameters inside <strong style="color:darkgreen">.env</strong> as needed
 
 ### Setup
 
